@@ -4,7 +4,7 @@ metadata:
   name: nginx
 spec:
   selector:
-    project: roboshop
+    project: roboshop  #these are the labels
     component: frontend
     environment: dev
   ports:
